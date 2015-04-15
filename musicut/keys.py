@@ -2,7 +2,7 @@
 
 from musicut import Note
 
-__all__ = ['Key']
+__all__ = ['Key', 'CIRCLE_OF_FIFTHS']
 
 ALL_NOTES = (
     (Note('A'), None),
